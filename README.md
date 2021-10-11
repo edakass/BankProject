@@ -1,7 +1,7 @@
 # Banka_Otomasyonu_CSharp_DevExpress
 C#(.Net Framework) Windows Form,DevExpress Components ile Banka Otomasyon Yapımı
 
- ->Dev Express
+->Dev Express
  
 Açılımı Developer Express’tir.Program DevExpress .NET platformunun bir componenti’dir.Visual Studio ile birlikte çalışır.DevExpress bize Toolbars’ta(Ribbon Form, XtraReport, Gridler, Textler, Menüler, Temalar vb.) bir çok nesne sunar.DevExpress nesneleri DevExpressin özel “dll” lerini kullanır.
 
@@ -9,7 +9,7 @@ Açılımı Developer Express’tir.Program DevExpress .NET platformunun bir com
 
 ->Form1 tüm formlarda olan Banka Otomasyonu yazan kısımdır.
 
- ->Sınıflarım;Banka,BireyselMusteri,TicariMusteri,Hesap,IBankaOzellikleri,IMusteriOzellikleri,Kisi,Muster,IRaporOzellikleri,Personel,Program,Rapor,
+->Sınıflarım;Banka,BireyselMusteri,TicariMusteri,Hesap,IBankaOzellikleri,IMusteriOzellikleri,Kisi,Muster,IRaporOzellikleri,Personel,Program,Rapor,
  
 public interface IBankaOzellikleri,
 
